@@ -1,4 +1,6 @@
 # Telkom University Company Profile - Praktikum
 Project simulasi HTML, CSS, PHP native, MySQL/MariaDB, dan Git.
 Perubahan ini dibuat dari simulasi Laptop B.
+
 Update dokumentasi dari Laptop A.
+Update fitur baru dari Laptop B.
